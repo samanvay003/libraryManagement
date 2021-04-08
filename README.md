@@ -7,3 +7,7 @@ library,keeping track of issued books and some other basic
 tasks.
 
 *Swagger has been used inorder to create a documentation of our backend api's in a UI Form.
+
+
+
+file:///home/samanvay/Pictures/libraryManagement.png

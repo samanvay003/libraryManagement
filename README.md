@@ -10,4 +10,3 @@ tasks.
 
 
 
-file:///home/samanvay/Pictures/libraryManagement.png
